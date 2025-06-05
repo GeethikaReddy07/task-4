@@ -1,69 +1,27 @@
 # task-4
-AI-BASED-RECOMMENDATION-SYSTEM
-COMPANY:CODE IT SOLUTIONS
+Build-a-Recommendation-System-Using-Java-and-Apache-Mahout
+college: GSMCOE
 
-NAME: Geethika Reddy 
+Name: GEETHIKA REDDY
 
-INTERN ID:CT08WR181
+INTERN ID: CT08WR181
 
-DOMAIN:JAVA PROGRAMMING
+DOMAIN: Java programming
 
-BATCH DURATION:APRIL 10TH TO JUNE 10TH, 2025.
+BATCH DURATION: APRIL 10TH TO JUNE 10TH, 2025.
 
-MENTOR NAME:NEELA SANTHOSH KUMAR
+MENTOR NAME: Neela Santhosh Kumar
 
-DESCRIPTION:
+ENTER DESCRIPTION OF TASK IN 500 WORDS: The goal is to create a recommendation system that analyzes user-item interactions and suggests products or content based on similarities between users or items. The system will leverage collaborative filtering, a popular technique that predicts a user's interests by identifying patterns in the preferences of similar users or items.
 
-AI-Based Recommendation System
-Objective
-Develop a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences. The system should analyze user behavior and generate personalized recommendations.
+OUTPUT OF TASK:
+Engine Engine1 RecommendationSystem RecommendationSystem1
+![image](https://github.com/user-attachments/assets/b351d962-db6b-4ba1-9de8-d7f7d816038c)
+![image](https://github.com/user-attachments/assets/4cac06b9-1343-4045-bfec-3ab4555381a4)
+![image](https://github.com/user-attachments/assets/72bdf043-f595-49f7-83d1-100eb15f2116)
+![image](https://github.com/user-attachments/assets/37e5793e-84cc-4874-9dc8-037af6292da8)
 
-Tasks & Descriptions
-Understand Recommendation System Concepts
 
-Study collaborative filtering, content-based filtering, and hybrid recommendation techniques.
-Choose an appropriate approach for the project.
-Set Up Java Development Environment
 
-Install Java Development Kit (JDK) and an Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
-Configure Maven or Gradle for dependency management.
-Integrate Apache Mahout
-
-Add Apache Mahout as a dependency to the project.
-Understand Mahout’s algorithms for recommendation generation.
-Prepare Sample Data
-
-Collect or create sample user interaction data (e.g., product ratings, viewing history).
-Store the data in a CSV file or database for easy processing.
-Implement the Recommendation Engine
-
-Use Mahout’s collaborative filtering or content-based filtering techniques.
-Train the system using sample data and generate recommendations.
-Optimize and Tune the Model
-
-Adjust parameters to improve recommendation accuracy.
-Evaluate performance using precision-recall metrics.
-Display Recommendations
-
-Print recommended products or content in a structured format in the console.
-Optionally, create a simple GUI using Java Swing or JavaFX for a better user experience.
-Error Handling & Logging
-
-Implement exception handling for missing data, incorrect input formats, and processing errors.
-Use logging (e.g., java.util.logging or SLF4J) for debugging and monitoring.
-Test the Application
-
-Validate recommendations by testing with different user inputs.
-Ensure system robustness and accuracy.
-Deliverable
-A Java program that:
-
-Uses Apache Mahout to generate personalized recommendations.
-Processes and analyzes sample user data.
-Displays relevant recommendations in a structured format.
-Includes proper error handling and logging.
-Optionally provides a GUI for improved usability.
-OUTPUT:
-![ouput](https://github.com/user-attachments/assets/66591def-ef8c-4fa7-a80c-65c36ace7083)
 
 
