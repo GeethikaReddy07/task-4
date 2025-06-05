@@ -1,6 +1,5 @@
 # task-4
 Build-a-Recommendation-System-Using-Java-and-Apache-Mahout
-college: GSMCOE
 
 Name: GEETHIKA REDDY
 
