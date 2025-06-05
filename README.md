@@ -64,4 +64,6 @@ Displays relevant recommendations in a structured format.
 Includes proper error handling and logging.
 Optionally provides a GUI for improved usability.
 OUTPUT:
+![ouput](https://github.com/user-attachments/assets/66591def-ef8c-4fa7-a80c-65c36ace7083)
+
 
